@@ -4,6 +4,8 @@ This is a solution to Makers Academy's [FizzBuzz Challenge](https://github.com/m
 
 This solution uses a test-driven approach, with unit tests implemented using [RSpec](http://rspec.info).
 
+Versions are also available in [Python](https://github.com/Andrew47/fizzbuzz-Python) and [JavaScript](https://github.com/Andrew47/fizzbuzz_JS).
+
 ##Installation Notes
 
 The repository should be cloned and the directory changed into:
