@@ -2,7 +2,7 @@ The Fizzbuzz Challenge
 ======================
 This is a solution to Makers Academy's [FizzBuzz Challenge](https://github.com/makersacademy/course/blob/master/fizzbuzz/fizzbuzz.md).
 
-This solution uses a test-driven approach, with unit tests implemented using [Rspec](http://rspec.info).
+This solution uses a test-driven approach, with unit tests implemented using [RSpec](http://rspec.info).
 
 ##Installation Notes
 
